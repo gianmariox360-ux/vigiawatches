@@ -1,0 +1,56 @@
+[
+ {
+  "id": "484f0f5a5f51",
+  "brand": "Casio",
+  "name": "Casio F-91W-1 Digital Clásico",
+  "desc": "Digital ligero con correa de resina, alarma diaria y cronómetro.",
+  "price": 25,
+  "img": "casio-f-91w-1-digital-clasico-reloj-casio.svg",
+  "stock": true
+ },
+ {
+  "id": "d79b1c93123d",
+  "brand": "Casio",
+  "name": "Casio A168WG-9 Digital Dorado",
+  "desc": "Digital retro dorado con brazalete metálico y luz de fondo.",
+  "price": 45,
+  "img": "casio-a168wg-9-digital-dorado-reloj-casio.svg",
+  "stock": true
+ },
+ {
+  "id": "c3478b845366",
+  "brand": "Casio",
+  "name": "Casio G-Shock GA-2100-1A1",
+  "desc": "G-Shock de caja octogonal resistente a golpes, sumergible hasta 200 m.",
+  "price": 110,
+  "img": "casio-g-shock-ga-2100-1a1-reloj-casio.svg",
+  "stock": true
+ },
+ {
+  "id": "9d09ebad6214",
+  "brand": "Poedagar",
+  "name": "Poedagar Cronógrafo Acero Negro",
+  "desc": "Reloj de cuarzo con cronógrafo y brazalete de acero, estilo clásico.",
+  "price": 39,
+  "img": "poedagar-cronografo-acero-negro-reloj-poedagar.svg",
+  "stock": true
+ },
+ {
+  "id": "02b98bef5c74",
+  "brand": "Poedagar",
+  "name": "Poedagar Elegante Dial Azul",
+  "desc": "Reloj de cuarzo con dial azul y acabado pulido para ocasiones formales.",
+  "price": 42,
+  "img": "poedagar-elegante-dial-azul-reloj-poedagar.svg",
+  "stock": true
+ },
+ {
+  "id": "ca9d57a4d10a",
+  "brand": "Poedagar",
+  "name": "Poedagar Deportivo Luminoso",
+  "desc": "Reloj deportivo con manecillas luminosas y correa resistente.",
+  "price": 45,
+  "img": "poedagar-deportivo-luminoso-reloj-poedagar.svg",
+  "stock": true
+ }
+]
